@@ -6,7 +6,7 @@
  *   GPIO pads
  *   0 F7 not connected
  *   1 F6 RGB PWM Underglow
- *   2 F5 Backlight LED
+ *   2 B5 Backlight LED
  *   3 F4 not connected
  *   B2 Capslock LED
  *   B0 not connected
